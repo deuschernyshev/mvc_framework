@@ -1,5 +1,4 @@
 import 'package:mvc_framework/mvc_framework.dart';
-import 'package:mvc_framework/src/config/config.dart';
 
 import '../controllers/html.dart';
 import '../controllers/json.dart';
