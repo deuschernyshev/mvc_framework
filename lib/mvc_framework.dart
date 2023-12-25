@@ -5,6 +5,7 @@ library;
 
 export 'package:mvc_framework/src/controllers/controller.dart';
 export 'package:mvc_framework/src/request_handler/request_handler.dart';
+export 'package:mvc_framework/src/runner/runner.dart';
 export 'package:mvc_framework/src/view_renderer/view_renderer.dart';
 export 'package:shelf/shelf.dart';
 export 'package:shelf/shelf_io.dart';

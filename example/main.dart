@@ -1,4 +1,4 @@
-import 'package:mvc_framework/src/runner/runner.dart';
+import 'package:mvc_framework/mvc_framework.dart';
 
 import 'config/config.dart';
 
