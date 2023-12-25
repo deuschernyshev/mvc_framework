@@ -1,5 +1,4 @@
 import 'package:mvc_framework/mvc_framework.dart';
-import 'package:mvc_framework/src/config/config.dart';
 
 final class Runner {
   final Config config;

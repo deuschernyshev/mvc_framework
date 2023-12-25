@@ -3,6 +3,7 @@
 /// More dartdocs go here.
 library;
 
+export 'package:mvc_framework/src/config/config.dart';
 export 'package:mvc_framework/src/controllers/controller.dart';
 export 'package:mvc_framework/src/request_handler/request_handler.dart';
 export 'package:mvc_framework/src/runner/runner.dart';
